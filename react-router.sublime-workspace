@@ -1,0 +1,561 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stat",
+				"stations"
+			],
+			[
+				"svg",
+				"svgTop"
+			],
+			[
+				"hero",
+				"heroMetric"
+			],
+			[
+				"pr",
+				"projectClass"
+			],
+			[
+				"tlPr",
+				"tlProjectLoader"
+			],
+			[
+				"tl",
+				"tlProjectLoader"
+			],
+			[
+				"pau",
+				"pauseProjects"
+			],
+			[
+				"pro",
+				"projectClass"
+			],
+			[
+				"projectCla",
+				"projectClass"
+			],
+			[
+				"up",
+				"updateClass"
+			],
+			[
+				"projectC",
+				"projectClass"
+			],
+			[
+				"ea",
+				"easeOut"
+			],
+			[
+				"e",
+				"ease"
+			],
+			[
+				"projectL",
+				"projectLinkText"
+			],
+			[
+				"proje",
+				"projectLink"
+			],
+			[
+				"f",
+				"find"
+			],
+			[
+				"tlPro",
+				"tlProjects"
+			],
+			[
+				"im",
+				"imageOut"
+			],
+			[
+				"ti",
+				"titleOut"
+			],
+			[
+				"pi",
+				"pixelsIn"
+			],
+			[
+				"image",
+				"imageIn"
+			],
+			[
+				"p",
+				"projectImage"
+			],
+			[
+				"x",
+				"xPercent"
+			],
+			[
+				"gulp",
+				"gulpif"
+			],
+			[
+				"rgb",
+				"rgbString"
+			],
+			[
+				"color",
+				"colorArr"
+			],
+			[
+				"hex",
+				"hexColor"
+			],
+			[
+				"co",
+				"colorArr"
+			],
+			[
+				"vjs",
+				"vjs-big-play-button"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Yozzo/Documents/development/react101/react-js-tutorials/2-react-router"
+	],
+	"file_history":
+	[
+		"/Users/Yozzo/Documents/development/react101/react-js-tutorials/1-basic-react/src/js/components/Footer.js",
+		"/Users/Yozzo/Documents/development/react101/react-js-tutorials/1-basic-react/src/js/components/Header.js",
+		"/Users/Yozzo/Documents/development/react101/react-js-tutorials/1-basic-react/src/js/client.js",
+		"/Users/Yozzo/Documents/development/react101/react-js-tutorials/1-basic-react/src/index.html",
+		"/Users/Yozzo/Documents/development/react101/js/module2.js",
+		"/Users/Yozzo/Documents/development/react101/js/module1.js",
+		"/Users/Yozzo/Documents/development/react101/index.html",
+		"/Users/Yozzo/Documents/development/react101/js/scripts.js",
+		"/Users/Yozzo/Documents/development/react101/webpack.config.js",
+		"/Users/Yozzo/Documents/development/Telegraph/vodafone-mini-map/app/images/locations/es-portitxol.svg",
+		"/Users/Yozzo/Desktop/broni-tarife.html",
+		"/Users/Yozzo/Documents/development/Telegraph/Vodafone Roaming Coverage/test2/data/destinations.geojson",
+		"/Users/Yozzo/Downloads/ne_10m_admin_0_label_points-country.json",
+		"/Users/Yozzo/Downloads/datamaps-master/package.json",
+		"/Users/Yozzo/Documents/design/Telegraph/vodafone-map-style",
+		"/Users/Yozzo/Downloads/snazzy-maps-example-ultra-light-with-labels-style.html",
+		"/Users/Yozzo/Documents/development/Helios/application/helios-id/helios/static/components/c_022/scripts/c_022.js",
+		"/Users/Yozzo/Documents/development/codeReview/codeReview/gmaps.js",
+		"/Users/Yozzo/Documents/development/codeReview/codeReview/angular.js",
+		"/Users/Yozzo/Documents/Processing/sketch_3d_mesh/sketch.properties",
+		"/Users/Yozzo/Documents/Processing/attraction_particle_system/sketch.properties",
+		"/private/var/folders/8k/_96xm4fd4z1ftfb_5kl2nm3w0000gn/T/72884232-de17-4156-800d-e4be32441ad5/BalfronTower/index.html",
+		"/Users/Yozzo/Downloads/completely-css-custom-checkboxes-radio-buttons-and-select-boxes 2/css/style.css",
+		"/Users/Yozzo/Downloads/completely-css-custom-checkboxes-radio-buttons-and-select-boxes 2/index.html",
+		"/Users/Yozzo/Desktop/flow-chart.html",
+		"/Users/Yozzo/Documents/development/Brody&Associates/BalfronTower/index.html",
+		"/Users/Yozzo/Downloads/66bcbb7099bb4beae530-ff8f7d2da621969fd42d34235f454f2354866280/Super simple background image slideshow.html",
+		"/Users/Yozzo/Downloads/pagePiling.js-master/examples/horizontalScroll.html",
+		"/Users/Yozzo/Downloads/webfontkit-20160117-172408/stylesheet.css",
+		"/Users/Yozzo/Documents/development/Brody&Associates/BalfronTower/scripts/libs/owl.carousel.2.0.0-beta.3/README.md",
+		"/Users/Yozzo/Documents/development/Brody&Associates/BalfronTower/package.json",
+		"/Users/Yozzo/Documents/development/nike2/gear-up-api/src/laravel/public/js/MOVE-chart-builder.js",
+		"/Users/Yozzo/Downloads/blobber_v2/index.html",
+		"/Users/Yozzo/Desktop/facets/js/facets.js",
+		"/Users/Yozzo/Desktop/facets/facets.html",
+		"/Users/Yozzo/Desktop/facets.html",
+		"/Users/Yozzo/Documents/development/Nike/FFS/js/main.js",
+		"/Users/Yozzo/Downloads/wojodesign-simplecart-js-51a9a38/simpleCart.js",
+		"/Users/Yozzo/Documents/development/happyStudio/source/assets/js/_newsletter.js",
+		"/Users/Yozzo/Dropbox/Apps/wpb2d/wp-content/themes/Dezmembrari v.1.1/style.css",
+		"/Users/Yozzo/Documents/development/jio/jio-emp-launch-july15/dev/assets/images/homepage/details/svg/timeline.svg",
+		"/Users/Yozzo/Documents/development/jio/jio-emp-launch-july15/dev/assets/images/homepage/details/svg/page-indicator.svg",
+		"/Users/Yozzo/Documents/development/jio/jio-emp-launch-july15/dev/assets/images/homepage/details/svg/active-page.svg",
+		"/Users/Yozzo/Documents/development/jio/jio-emp-launch-july15/dev/assets/images/homepage/details/svg/bullet-border-orange.svg",
+		"/Users/Yozzo/Documents/development/jio/jio-emp-launch-july15/dev/assets/images/homepage/details/svg/bullet-border-magenta.svg",
+		"/Users/Yozzo/Downloads/optimised (22).svg",
+		"/Users/Yozzo/Documents/development/jio/jio-emp-launch-july15/dev/assets/images/homepage/details/svg/arrow.svg",
+		"/Users/Yozzo/Documents/development/jio/jio-emp-launch-july15/dev/assets/images/homepage/details/svg/beats.svg",
+		"/Users/Yozzo/Documents/development/jio/jio-emp-launch-july15/dev/assets/images/homepage/details/svg/join.svg",
+		"/Users/Yozzo/Downloads/optimised (17).svg",
+		"/Users/Yozzo/Downloads/optimised (16).svg",
+		"/Users/Yozzo/Documents/development/jio/jio-emp-launch-july15/dev/assets/images/homepage/details/svg/drive.svg",
+		"/Users/Yozzo/Documents/development/jio-prototypes/jio/dev/scss/components/hero-orbs.scss",
+		"/Users/Yozzo/Documents/development/jio-prototypes/jio/dev/images/svg/trajectory-level-3.svg",
+		"/Users/Yozzo/Documents/development/jio-prototypes/jio/dev/images/svg/trajectory-level-4.svg",
+		"/Users/Yozzo/Documents/development/jio-prototypes/jio/dev/images/svg/trajectory-level-2.svg",
+		"/Users/Yozzo/Downloads/optimised (8).svg",
+		"/Users/Yozzo/Documents/development/jio-prototypes/jio/dev/images/svg/orbs-level-4.svg",
+		"/Users/Yozzo/Documents/development/jio-prototypes/jio/dev/images/svg/orbs-level-3.svg",
+		"/Users/Yozzo/Documents/development/jio-prototypes/jio/dev/images/svg/orbs-level-2.svg",
+		"/Users/Yozzo/Downloads/06-GSAP-Exercise-rotating-circles/end/js/main.js",
+		"/Users/Yozzo/Documents/design/Jio/homepage_upgraded/publish/web/js/edge.6.0.0.min.js",
+		"/Users/Yozzo/Documents/design/Jio/homepage_upgraded/publish/web/jio-homepage-hero.html",
+		"/Users/Yozzo/Documents/design/Jio/homepage_upgraded/publish/web/jio-homepage-hero_edge.js",
+		"/Users/Yozzo/Downloads/new-prototype/README.md",
+		"/Users/Yozzo/Downloads/02-GSAP-active-slide-navigation/start/css/main.css",
+		"/Users/Yozzo/Downloads/001-start/js/main.js",
+		"/Users/Yozzo/Downloads/001-start/index.html",
+		"/Users/Yozzo/Downloads/001-start/css/main.css",
+		"/Users/Yozzo/Downloads/02-GSAP-active-slide-navigation/start/index.html",
+		"/Users/Yozzo/Downloads/001-start/js/plugins.js",
+		"/Users/Yozzo/Downloads/05-GSAP-pause-resume-timeline/start/js/main.js",
+		"/Users/Yozzo/Downloads/05-GSAP-pause-resume-timeline/start/css/main.css",
+		"/Users/Yozzo/Downloads/05-GSAP-pause-resume-timeline/start/index.html",
+		"/Users/Yozzo/Downloads/01-HTML-CSS/end/css/main.css",
+		"/Users/Yozzo/Downloads/01-HTML-CSS/end/js/main.js",
+		"/Users/Yozzo/Downloads/01-HTML-CSS/end/index.html",
+		"/private/var/folders/8k/_96xm4fd4z1ftfb_5kl2nm3w0000gn/T/93a1e629-0e06-4a1e-82dd-6e84737072df/public_html/wp-content/themes/health-center/functions.php",
+		"/Users/Yozzo/Documents/design/Clinica_Florin/What we do best",
+		"/private/var/folders/8k/_96xm4fd4z1ftfb_5kl2nm3w0000gn/T/93a1e629-0e06-4a1e-82dd-6e84737072df/public_html/wp-config.php",
+		"/Users/Yozzo/Documents/design/Clinica_Florin/themeforest health-center/health-center/package.json",
+		"/Users/Yozzo/Documents/development/gulp-101/pluralsight-gulp/package.json",
+		"/Users/Yozzo/Documents/development/akqa/node_modules/gulp/package.json",
+		"/Users/Yozzo/Documents/development/nike2/gear-up-api/src/laravel/resources/assets/bower/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_size.scss",
+		"/Users/Yozzo/Desktop/youtubeBG.html",
+		"/Users/Yozzo/Desktop/youtubeBG-blade",
+		"/Users/Yozzo/Documents/design/nike/scoreCard/scoreCard_publish/data/data.js",
+		"/Users/Yozzo/Documents/development/nike2/gear-up-api/src/laravel/public/svg/avatar-cover.svg",
+		"/Users/Yozzo/Documents/development/happyStudio/source/assets/js/main.js",
+		"/Users/Yozzo/Downloads/MyFontsWebfontsKit 4/MyFontsWebfontsKit.css",
+		"/Users/Yozzo/Documents/development/Nike/FFS/js/RadarChart.js",
+		"/Users/Yozzo/Downloads/owl.carousel/README.md",
+		"/Users/Yozzo/Documents/development/nike2/gear-up-api/src/laravel/package.json",
+		"/Users/Yozzo/Documents/development/nike2/gear-up-api/src/laravel/node_modules/neat/_neat.scss",
+		"/Users/Yozzo/Documents/development/nike2/gear-up-api/src/laravel/node_modules/bourbon/_bourbon.scss",
+		"/Users/Yozzo/Documents/design/nike/scoreCard/ScroeCard-alive/js/script.js",
+		"/Users/Yozzo/Documents/design/nike/scoreCard/ScroeCard-alive/ngu-score-card_edge.js",
+		"/Users/Yozzo/Documents/development/happyStudio/source/assets/css/patterns/organisms/_activities.scss",
+		"/Users/Yozzo/Downloads/music-frequency-d3-master 2/app.js",
+		"/Users/Yozzo/Desktop/gradientTest.html",
+		"/Users/Yozzo/Documents/development/nike2/gear-up-api/src/laravel/public/display-2bemerged.html",
+		"/Users/Yozzo/Desktop/FFS/Flat Surface Shader_files/example.js",
+		"/Users/Yozzo/Desktop/FFS/Flat Surface Shader.html",
+		"/Users/Yozzo/Documents/design/nike/radar_bg.svg",
+		"/Users/Yozzo/Documents/design/nike/green2blue.svg",
+		"/Users/Yozzo/Documents/design/nike/videoalpha/js/main.js",
+		"/Users/Yozzo/Downloads/simpl-master/videoalpha/index.html",
+		"/Users/Yozzo/Documents/goodies/simpl-master/videoalpha/index.html",
+		"/Users/Yozzo/Documents/development/TNT_mock/server/mocks/carousel.js",
+		"/Users/Yozzo/Documents/development/TNT_mock/server/mocks/project.js",
+		"/Users/Yozzo/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/3B132B29-733B-4BDE-A356-453A558D5488/content.json",
+		"/Users/Yozzo/Documents/development/TNT/package.json",
+		"/Users/Yozzo/Documents/development/TNT2/package.json",
+		"/Users/Yozzo/Documents/development/tareintenis/package.json",
+		"/Users/Yozzo/Desktop/c_056-spec.js",
+		"/Users/Yozzo/Desktop/c_056.js",
+		"/Users/Yozzo/Desktop/C_040_listView.js",
+		"/Users/Yozzo/Desktop/c_040-spec.js",
+		"/Users/Yozzo/Desktop/c_040.js",
+		"/Users/Yozzo/Desktop/c_022-spec.js",
+		"/Users/Yozzo/Desktop/c_022.js",
+		"/Users/Yozzo/Downloads/jquery-infinite-carousel/jquery.infinite-carousel.js",
+		"/Users/Yozzo/Desktop/c_40.hbs",
+		"/Users/Yozzo/Documents/goodies/Addepar-ember-widgets-e7bbab4/dependencies/list-view.js",
+		"/Users/Yozzo/Documents/development/UV/app/old/response.json",
+		"/Users/Yozzo/Downloads/wave/newcanvas.js",
+		"/Users/Yozzo/Documents/development/ember101/todo-mvc/app/templates/application.hbs",
+		"/Users/Yozzo/Documents/development/D3 101/D3/d3js-data-visualization-fundamentals/3-d3js-data-vis-fundamentals-exercise-files/working-with-csv-2.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/Yozzo/Documents/development/TNT_mock",
+			"/Users/Yozzo/Documents/goodies/mean/projects/sample",
+			"/Users/Yozzo/Documents/development/Helios/application/helios-id/helios",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"');",
+			");",
+			"Pola",
+			"destina",
+			"secondary",
+			"destinat",
+			"secondary",
+			"main",
+			"DEU",
+			"Che",
+			"AUT",
+			"Austria",
+			"kosovo",
+			"IMN",
+			"RSB",
+			"vat",
+			"GBR",
+			"ESP",
+			"MLT",
+			"hun",
+			"HUN",
+			"DEU",
+			"EST",
+			"DNK",
+			"Cz",
+			"CZE",
+			"CYP",
+			"Croatia",
+			"HRV",
+			"belgium",
+			"AUT",
+			"andora",
+			"AND",
+			"ALA",
+			"RSB",
+			"resize",
+			"362",
+			"messages",
+			"event",
+			"pixel",
+			"loui",
+			"tlCircles",
+			"tlProjectLoader",
+			"css",
+			"tlProjectLoader",
+			"pauseProjects",
+			"media ",
+			"$project.",
+			"pixel",
+			"project",
+			"https",
+			"siteurl",
+			"require",
+			"fr",
+			"frame",
+			"bourbon",
+			"sass",
+			"Stage_spiderChart3",
+			"centroid",
+			"color",
+			"svg",
+			"color",
+			"max",
+			"height",
+			"LIGHT",
+			"attractor",
+			"core",
+			"light",
+			"domElement",
+			"controls",
+			"<font color=\"#00ff00\">",
+			"courtRouter",
+			"sass",
+			"jQuery",
+			"<script type=\"text/x-handlebars\" id=\"index\">\n    <ul>\n    {{#each item in model}}\n      <li>{{item}}</li>\n    {{/each}}\n    </ul>\n  </script>",
+			"offers.html",
+			"loadNpmTasks",
+			"load",
+			"loadNpm",
+			"loadNp",
+			"getFrameID",
+			"playVideo",
+			"youtu",
+			"video error",
+			"fa-",
+			"collectData",
+			"makeAjaxRequest",
+			"successFunction",
+			"login",
+			"snapshots",
+			"page-title",
+			"class=\"contact-us\"",
+			"contact-us",
+			"class=\"c_023-1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<font color=\"#ffffff\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.textarea":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react-router.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"c_040",
+				"application/helios-id/helios/deploy/components/c_040/html/c_040.hbs"
+			],
+			[
+				"c_023-1",
+				"application/helios-id/helios/static/components/c_023-1/html/c_023-1.hbs"
+			],
+			[
+				"c_023-1.hbs",
+				"application/helios-id/helios/deploy/components/c_023-1/html/c_023-1.hbs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
